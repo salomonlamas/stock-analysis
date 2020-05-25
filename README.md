@@ -1,2 +1,2 @@
 # stock-analysis
-General figures generation for stock performance using VBA
+Gathering the returns for "green" company stocks within a given year using VBA 
